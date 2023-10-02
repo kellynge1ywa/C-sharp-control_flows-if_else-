@@ -1,0 +1,14 @@
+D:\learning\C#\visual studio\control_flow\bin\Debug\net6.0\control_flow.exe
+D:\learning\C#\visual studio\control_flow\bin\Debug\net6.0\control_flow.deps.json
+D:\learning\C#\visual studio\control_flow\bin\Debug\net6.0\control_flow.runtimeconfig.json
+D:\learning\C#\visual studio\control_flow\bin\Debug\net6.0\control_flow.dll
+D:\learning\C#\visual studio\control_flow\bin\Debug\net6.0\control_flow.pdb
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\control_flow.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\control_flow.AssemblyInfoInputs.cache
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\control_flow.AssemblyInfo.cs
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\control_flow.csproj.CoreCompileInputs.cache
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\control_flow.dll
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\refint\control_flow.dll
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\control_flow.pdb
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\control_flow.genruntimeconfig.cache
+D:\learning\C#\visual studio\control_flow\obj\Debug\net6.0\ref\control_flow.dll
